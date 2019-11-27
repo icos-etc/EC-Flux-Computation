@@ -1,3 +1,3 @@
 # EC-Flux-Computation
 A suite of R scripts for the estimation of eddy-covariance fluxes.
-It is mainly based on the RFlux library functions implemented in paralell mode to increase the computational efficiency as required for the analysis of large datasets.
+It is mainly based on an efficient implementation of the RFlux library functions run in paralell mode to reduce the computational cost required for the analysis of large datasets.
